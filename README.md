@@ -59,11 +59,3 @@ python main.py
 * Optimize data parsing.
 * Add error and exception handling.
 * Expand bot functionality (e.g., new product notifications, price comparison).
-
-**Author:**
-
-[Your name]
-
-**License:**
-
-[Specify license]
